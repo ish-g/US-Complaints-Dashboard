@@ -34,6 +34,10 @@ Welcome to the US Complaints Dashboard! 📊 This dashboard offers interactive v
 2. **Trend Analysis:** Analyze trends over time and compare complaint volumes between different categories.
 3. **Insight Discovery:** Gain insights into common issues reported by consumers and companies' responses.
 
+## Screenshot
+
+![US Complaints Dashboard](US_Complaints.jpg)
+
 ## Findings
 
 Upon analyzing the data, several insights were found:
