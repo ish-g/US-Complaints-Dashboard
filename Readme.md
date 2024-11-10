@@ -1,5 +1,9 @@
 # US Complaints Dashboard
 
+## Screenshot | [Live Project Link](https://public.tableau.com/views/USComplaintsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![US Complaints Dashboard](US_Complaints.jpg)
+
 ## Overview
 
 Welcome to the US Complaints Dashboard! 📊 This dashboard offers interactive visualizations and insights into consumer complaints filed against companies in the United States. It is designed using Tableau to provide an intuitive and comprehensive user experience.
@@ -32,11 +36,7 @@ Welcome to the US Complaints Dashboard! 📊 This dashboard offers interactive v
 
 1. **Filter by Dimensions:** Use filters to view complaints by company, product, state, and other relevant dimensions.
 2. **Trend Analysis:** Analyze trends over time and compare complaint volumes between different categories.
-3. **Insight Discovery:** Gain insights into common issues reported by consumers and companies' responses.
-
-## Screenshot
-
-![US Complaints Dashboard](US_Complaints.jpg)
+3. **Insight Discovery:** Gain insights into common issues reported by consumers and companies' responses
 
 ## Findings
 
